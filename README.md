@@ -1,0 +1,1 @@
+This is a project that uses machine learning techniques(RandomForestClassifier) to forecast the likelihood of heart disease in individuals, helping doctors identify risks early and improve patient care.
